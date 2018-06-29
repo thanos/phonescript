@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/projects/!svn/ver/501/phonescript/src/org/phonescript/intepreter
+END
+NewStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/498/phonescript/src/org/phonescript/intepreter/NewStack.java
+END
+File.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/projects/!svn/ver/498/phonescript/src/org/phonescript/intepreter/File.java
+END
+PSToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/projects/!svn/ver/498/phonescript/src/org/phonescript/intepreter/PSToken.java
+END
+PSInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/498/phonescript/src/org/phonescript/intepreter/PSInterpreter.java
+END
+CharBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/498/phonescript/src/org/phonescript/intepreter/CharBuffer.java
+END
+PSObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/498/phonescript/src/org/phonescript/intepreter/PSObject.java
+END

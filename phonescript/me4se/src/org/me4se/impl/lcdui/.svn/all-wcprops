@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/projects/!svn/ver/492/phonescript/me4se/src/org/me4se/impl/lcdui
+END
+DeviceLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/492/phonescript/me4se/src/org/me4se/impl/lcdui/DeviceLabel.java
+END
+DeviceComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/492/phonescript/me4se/src/org/me4se/impl/lcdui/DeviceComponent.java
+END
+AwtFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/projects/!svn/ver/492/phonescript/me4se/src/org/me4se/impl/lcdui/AwtFont.java
+END
+FontInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/492/phonescript/me4se/src/org/me4se/impl/lcdui/FontInfo.java
+END
+PhysicalFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projects/!svn/ver/492/phonescript/me4se/src/org/me4se/impl/lcdui/PhysicalFont.java
+END
+WordWrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/492/phonescript/me4se/src/org/me4se/impl/lcdui/WordWrap.java
+END
+DrawImageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/492/phonescript/me4se/src/org/me4se/impl/lcdui/DrawImageFilter.java
+END
+TextComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/492/phonescript/me4se/src/org/me4se/impl/lcdui/TextComponent.java
+END
+Color2GrayFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/projects/!svn/ver/492/phonescript/me4se/src/org/me4se/impl/lcdui/Color2GrayFilter.java
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui
+END
+Graphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Graphics.java
+END
+ImageItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/ImageItem.java
+END
+Font.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Font.java
+END
+ChoiceGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/ChoiceGroup.java
+END
+Alert.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Alert.java
+END
+List.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/List.java
+END
+ScmCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/ScmCanvas.java
+END
+DateField.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/DateField.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Image.java
+END
+CommandListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/CommandListener.java
+END
+ScmImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/ScmImage.java
+END
+Gauge.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Gauge.java
+END
+Displayable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Displayable.java
+END
+Choice.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Choice.java
+END
+ScmIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/ScmIcon.java
+END
+ScmGauge.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/ScmGauge.java
+END
+ScmDisplayable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/ScmDisplayable.java
+END
+TextBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/TextBox.java
+END
+ScmDeviceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/ScmDeviceList.java
+END
+ItemCommandListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/ItemCommandListener.java
+END
+Form.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Form.java
+END
+Display.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Display.java
+END
+ItemStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/ItemStateListener.java
+END
+SoftButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/SoftButton.java
+END
+TickerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/TickerThread.java
+END
+AlertType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/AlertType.java
+END
+CommandList.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/CommandList.java
+END
+Canvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Canvas.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Command.java
+END
+Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Screen.java
+END
+CmdInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/CmdInfo.java
+END
+Ticker.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Ticker.java
+END
+StringItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/StringItem.java
+END
+TextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/TextField.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/lcdui/Item.java
+END

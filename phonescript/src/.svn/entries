@@ -1,0 +1,46 @@
+8
+
+dir
+1650
+http://byteeasy.com/svn/projects/phonescript/src
+http://byteeasy.com/svn/projects
+
+
+
+2006-04-12T21:55:12.639491Z
+501
+thanos
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7b7e849c-caec-0310-9e0e-b2fcc5d22210
+
+Test.java
+file
+
+
+
+
+2008-06-04T03:53:45.000000Z
+6f7210710869d5ce556601e4a14f9c17
+2006-04-12T21:55:12.639491Z
+501
+thanos
+
+org
+dir
+
+javax
+dir
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms
+END
+InvalidRecordIDException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms/InvalidRecordIDException.java
+END
+RecordFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms/RecordFilter.java
+END
+RecordListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms/RecordListener.java
+END
+RecordEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms/RecordEnumeration.java
+END
+RecordComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms/RecordComparator.java
+END
+RecordStoreNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms/RecordStoreNotFoundException.java
+END
+RecordStoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms/RecordStoreException.java
+END
+RecordStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms/RecordStore.java
+END
+RecordStoreNotOpenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms/RecordStoreNotOpenException.java
+END
+RecordStoreFullException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/projects/!svn/ver/492/phonescript/me4se/src/javax/microedition/rms/RecordStoreFullException.java
+END

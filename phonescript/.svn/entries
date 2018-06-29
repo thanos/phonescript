@@ -1,0 +1,49 @@
+8
+
+dir
+1650
+http://byteeasy.com/svn/projects/phonescript
+http://byteeasy.com/svn/projects
+
+
+
+2006-04-14T20:07:52.310006Z
+502
+thanos
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7b7e849c-caec-0310-9e0e-b2fcc5d22210
+
+src
+dir
+
+ps-src
+dir
+
+measure.py
+file
+
+
+
+
+2008-06-04T03:53:45.000000Z
+67e2121f14b93d0c206d17003a4c083d
+2006-04-12T21:54:00.294901Z
+499
+thanos
+
+me4se
+dir
+
