@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io
+END
+HttpConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/HttpConnection.java
+END
+InputConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/InputConnection.java
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/Connection.java
+END
+DatagramConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/DatagramConnection.java
+END
+Datagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/Datagram.java
+END
+OutputConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/OutputConnection.java
+END
+ContentConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/ContentConnection.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/Connector.java
+END
+StreamConnectionNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/StreamConnectionNotifier.java
+END
+StreamConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/StreamConnection.java
+END
+CommConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/CommConnection.java
+END
+ConnectionNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/projects/!svn/ver/490/phonescript-midp/src/javax/microedition/io/ConnectionNotFoundException.java
+END

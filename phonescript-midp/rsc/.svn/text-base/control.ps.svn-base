@@ -1,0 +1,5 @@
+%0 1 1 4 { add } for
+%1 2 6 {} for
+3 -.5 1 {} for
+%3 4 lt { (3 is less than 4) 3 4 sub } if
+

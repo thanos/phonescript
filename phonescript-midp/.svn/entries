@@ -1,0 +1,83 @@
+8
+
+dir
+1650
+http://byteeasy.com/svn/projects/phonescript-midp
+http://byteeasy.com/svn/projects
+
+
+
+2006-04-09T02:12:36.156149Z
+491
+thanos
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7b7e849c-caec-0310-9e0e-b2fcc5d22210
+
+.classpath
+file
+
+
+
+
+2008-06-04T03:53:30.000000Z
+8efb6198e3a5f6e734417e69769718eb
+2006-04-09T02:07:50.214024Z
+490
+thanos
+
+src_comm
+dir
+
+.project
+file
+
+
+
+
+2008-06-04T03:53:30.000000Z
+3d68e0c9d473f0a0f768d848995632b5
+2006-04-09T02:07:50.214024Z
+490
+thanos
+
+lib
+dir
+
+src_fileconnection
+dir
+
+src_timer
+dir
+
+rsc
+dir
+
+src
+dir
+
+me4se.jar
+file
+
+
+
+
+2008-06-04T03:53:30.000000Z
+6f5bf1c1102b62bc2ffa03b75b257244
+2006-04-09T02:07:50.214024Z
+490
+thanos
+has-props
+

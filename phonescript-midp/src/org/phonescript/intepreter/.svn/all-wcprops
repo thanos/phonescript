@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter
+END
+File.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter/File.java
+END
+Intepreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter/Intepreter.java
+END
+PSToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter/PSToken.java
+END
+StackItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter/StackItem.java
+END
+Stack.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter/Stack.java
+END
+PSInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter/PSInterpreter.java
+END
+Pragma.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter/Pragma.java
+END
+CharBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter/CharBuffer.java
+END
+PSObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter/PSObject.java
+END
+Stream.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/phonescript/intepreter/Stream.java
+END

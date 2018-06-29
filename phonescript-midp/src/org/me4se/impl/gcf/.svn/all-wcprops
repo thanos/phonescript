@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/me4se/impl/gcf
+END
+ConnectionImpl_serversocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/me4se/impl/gcf/ConnectionImpl_serversocket.java
+END
+ConnectionImpl_http.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/me4se/impl/gcf/ConnectionImpl_http.java
+END
+ConnectionImpl_datagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/me4se/impl/gcf/ConnectionImpl_datagram.java
+END
+ConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/me4se/impl/gcf/ConnectionImpl.java
+END
+DatagramImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/me4se/impl/gcf/DatagramImpl.java
+END
+ConnectionImpl_socket.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/projects/!svn/ver/490/phonescript-midp/src/org/me4se/impl/gcf/ConnectionImpl_socket.java
+END

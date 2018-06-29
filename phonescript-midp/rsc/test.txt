@@ -1,0 +1,18 @@
+# comments can start with a '#'
+# every thing is a object, and objects are defined as
+int = 1 # an object conating a 1
+real = 1.0 # an object containing a real.
+# an object that is a record of  four fields.
+record = { int: int, real:real name: "boris"} 
+# fields can be keyed
+size = record.int
+# which is the same as
+size = record{int}
+# fields can be indexed
+value = record[1]
+# there is a NULL singlton object the daddy of everything.
+# any thing you do to the NULL evaluates to NULL 
+for i in range(10):
+	foo(i)
+
+

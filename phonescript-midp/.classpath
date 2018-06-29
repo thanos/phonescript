@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src_comm"/>
+	<classpathentry kind="src" path="src_timer"/>
+	<classpathentry kind="src" path="src_fileconnection"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/thanos/Documents/workspace/phonescript/lib/kobjects-j2se.jar"/>
+	<classpathentry kind="lib" path="/Users/thanos/Documents/workspace/phonescript/lib/png-sixlegs-1.2.3.zip"/>
+	<classpathentry kind="lib" path="/Users/thanos/Documents/workspace/phonescript/lib/scm.jar"/>
+	<classpathentry kind="lib" path="/Users/thanos/Documents/workspace/phonescript/lib/emptycommapi.jar"/>
+	<classpathentry kind="lib" path="/Users/thanos/Documents/workspace/phonescript/lib/png.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
